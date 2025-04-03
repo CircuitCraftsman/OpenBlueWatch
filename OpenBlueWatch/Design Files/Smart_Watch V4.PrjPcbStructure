@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Block diagram.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Block diagram.SchDoc|FileName=MCU.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Block diagram.SchDoc|FileName=Power.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Block diagram.SchDoc|FileName=Sensors and display.SchDoc|SheetNumber=3
