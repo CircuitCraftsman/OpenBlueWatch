@@ -23,9 +23,13 @@ Open-source smart watch design in Altium Designer. The smartwatch is based on Ap
 # Specs
 
   • Bluetooth Low Energy (BLE) 5.4
+  
   • Real-time Time Clock
+  
   • Environmental sensors
+  
   • Smart Power Management
+  
   • Type-C charger
 
 # Schematic 
