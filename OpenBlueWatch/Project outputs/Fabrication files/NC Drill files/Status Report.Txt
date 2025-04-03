@@ -1,0 +1,17 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Smart_Watch V4.PrjPcb]
+   Generated File[Smart_Watch V4-RoundHoles.TXT]
+   Generated File[Smart_Watch V4-SlotHoles.TXT]
+   Generated File[Smart_Watch V4-RoundHoles.TX1]
+   Generated File[Smart_Watch V4-RoundHoles.TX2]
+   Generated File[Smart_Watch V4-RoundHoles.TX3]
+   Generated File[Smart_Watch V4-RoundHoles.TX4]
+   Generated File[Smart_Watch V4.LDP]
+   Generated File[Smart_Watch V4.DRR]
+
+
+Files Generated   : 8
+Documents Printed : 0
+
+Finished Output Generation At 1:01:45 AM On 4/4/2025

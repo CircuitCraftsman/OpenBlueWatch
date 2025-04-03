@@ -1,0 +1,56 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Smart_Watch V4.PcbDoc   4/4/2025  1:01:45 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Smart_Watch V4-RoundHoles.TXT
+ASCII SlotHoles File : Smart_Watch V4-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.1mm (4mil)                                              Round             3         PTH        2.35mm (0.09inch)
+T2      0.2mm (8mil)                                              Round             10        PTH        17.47mm (0.69inch)
+T3      0.55mm (22mil)                                            Round             6         PTH        46.20mm (1.82inch)
+T4      0.6mm (24mil)                                             Slot              6         PTH        42.54mm (1.67inch)
+T5      0.65mm (26mil)                                            Round             2         PTH        1.76mm (0.07inch)
+T6      1.067mm (42mil)                                           Round             3         NPTH       7.21mm (0.28inch)
+T7      2.451mm (96mil)                                           Round             4         NPTH       11.43mm (0.45inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              34
+Layer Pair : Top Layer to Layer 3
+ASCII RoundHoles File : Smart_Watch V4-RoundHoles.TX1
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.1mm (4mil)                                              Round             1         PTH        0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1
+Layer Pair : Top Layer to Layer 1
+ASCII RoundHoles File : Smart_Watch V4-RoundHoles.TX2
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.1mm (4mil)                                              Round             11        PTH        42.12mm (1.66inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              11
+Layer Pair : Top Layer to Layer 5
+ASCII RoundHoles File : Smart_Watch V4-RoundHoles.TX3
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.1mm (4mil)                                              Round             20        PTH        69.66mm (2.74inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              20
+Layer Pair : Layer 5 to Bottom Layer
+ASCII RoundHoles File : Smart_Watch V4-RoundHoles.TX4
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.1mm (4mil)                                              Round             12        PTH        9.65mm (0.38inch)
+T2      0.2mm (8mil)                                              Round             2         PTH        18.06mm (0.71inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              14
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              80
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,7 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\Smart_Watch V4\Smart_Watch V4.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=smart_watch v4-roundholes.txt|DrillLayers=gtl,gp1,g1,gp2,g2,gp3,g3,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=smart_watch v4-slotholes.txt|DrillLayers=gtl,gp1,g1,gp2,g2,gp3,g3,gbl
+LayersSetName=Top_3_Blind_Vias|DrillFile=smart_watch v4-roundholes.tx1|DrillLayers=gtl,gp1
+LayersSetName=Top_1_Blind_Vias|DrillFile=smart_watch v4-roundholes.tx2|DrillLayers=gtl,gp1,g1
+LayersSetName=Top_5_Blind_Vias|DrillFile=smart_watch v4-roundholes.tx3|DrillLayers=gtl,gp1,g1,gp2,g2
+LayersSetName=5_Bot_Blind_Vias|DrillFile=smart_watch v4-roundholes.tx4|DrillLayers=g2,gp3,g3,gbl
