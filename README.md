@@ -71,7 +71,9 @@ Open-source smart watch design in Altium Designer. The smartwatch is based on Ap
 # Future Work
 
   • The device will be designed using another layer stackup
+  
   • NFC feature will be added
+  
   • Another power management solution will be used
 
 
