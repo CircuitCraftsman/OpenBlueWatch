@@ -56,13 +56,9 @@ Open-source smart watch design in Altium Designer. The smartwatch is based on Ap
 
 ![Front](https://github.com/CircuitCraftsman/OpenBlueWatch/blob/main/OpenBlueWatch/Project%20outputs/Images/3D%20Front.png)
 
-**Back View (Version 2)**
-
-![Back](https://github.com/CircuitCraftsman/OpenBlueWatch/blob/main/OpenBlueWatch/Project%20outputs/Images/3D%20Front.png)
 
 
-
-**Back View (Version 1)**
+**Front View (Version 1)**
 
 ![Front (Version 1)](https://github.com/CircuitCraftsman/OpenBlueWatch/blob/main/OpenBlueWatch/Project%20outputs/Images/Front.jpeg)
 
