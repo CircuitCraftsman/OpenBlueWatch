@@ -1,7 +1,7 @@
 # OpenBlueWatch
 ![OpenBlueWatch](https://github.com/CircuitCraftsman/OpenBlueWatch/blob/main/OpenBlueWatch/Schematic/Block%20Diagram.png)
 
-Open-source smart watch design in Altium Designer. The smartwatch is based on Apollo4 blue plus SoC. It incorporates a pressure sensor, inertial measurement unit, magnetometer, temperature and humidity sensor, MEMS microphone, haptic driver, and Class D amplifier. In addition, power management is based on AXP173 PMIC. The device can be using JLINK adapter. 
+Open-source smart watch design in Altium Designer. The smartwatch is based on the Apollo 4 Blue Plus SoC. It incorporates a pressure sensor, an inertial measurement unit, a magnetometer, a temperature and humidity sensor, a MEMS microphone, a haptic driver, and a Class D amplifier. Additionally, power management is based on the AXP173 PMIC. The device can be programmed with the JLINK adapter. 
 
 # Contents
 - [Used Tools](#Used-Tools)
