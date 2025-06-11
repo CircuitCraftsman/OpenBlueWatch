@@ -12,15 +12,19 @@ Open-source smart watch design in Altium Designer. The smartwatch is based on th
 - [Future Work](#Future-Work)
 
 # Used Tools
+    
 - Altium Designer
 
 ![Altium Designer](https://github.com/TechBlueprint-V/OpenBlueWatch/blob/main/OpenBlueWatch/Schematic/Altium%20Designer.jpg)
-    
-  - Altium Designer (AD) is a software package for printed circuit board (PCB) design and electronic design automation. It was developed by the American software company Altium Limited. Altium Designer was formerly known as Protel.
+
+
+Altium Designer (AD) is a software package for printed circuit board (PCB) design and electronic design automation. It was developed by the American software company Altium Limited. Altium Designer was formerly known as Protel.
 
 - Saturn PCB Toolkit
 
-    - The Saturn PCB Toolkit is the best freeware resource for PCB-related calculations. It incorporates many features that PCB designers and engineers regularly need, like the current capacity of a PCB trace, via current, differential pairs, and much more.
+![Saturn PCB Toolkit](https://github.com/TechBlueprint-V/OpenBlueWatch/blob/main/OpenBlueWatch/Schematic/logo-saturn-pcb.png)
+
+The Saturn PCB Toolkit is the best freeware resource for PCB-related calculations. It incorporates many features that PCB designers and engineers regularly need, like the current capacity of a PCB trace, via current, differential pairs, and much more.
 
 # Specs
 
