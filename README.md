@@ -13,8 +13,8 @@ Open-source smart watch design in Altium Designer. The smartwatch is based on th
 
 # Used Tools
 - Altium Designer
-
-    - Altium Designer (AD) is a printed circuit board (PCB) and electronic design automation software package for printed circuit boards. It was developed by the American software company Altium Limited. Altium Designer was formerly named under the brand Protel.
+![Altium Designer](https://github.com/TechBlueprint-V/OpenBlueWatch/blob/main/OpenBlueWatch/Schematic/Altium%20Designer.jpg)
+    Altium Designer (AD) is a software package for printed circuit board (PCB) design and electronic design automation. It was developed by the American software company Altium Limited. Altium Designer was formerly known as Protel.
 
 - Saturn PCB Toolkit
 
